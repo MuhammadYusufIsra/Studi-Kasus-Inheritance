@@ -18,7 +18,7 @@ super.halo();
         }
             
     //Method void yang nantinya akan dijadikan bahan keyword super di class Nama yang nanti akan dipanggil lagi ke class Main
-    void namee(){
+    void name(){
         //Menentukan nama dan mencetak (tetapi masih belum bisa tercetak ketika dirun, harus di panggil di class main
     this.nama = "Muhammad Yusuf Isra";
     System.out.println("Nama : "+nama);

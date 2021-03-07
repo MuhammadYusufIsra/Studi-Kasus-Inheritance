@@ -10,7 +10,7 @@ public class Nama extends Biodata{
     //Method public void yang diberi nama data2 yang nantinya akan dipanggil di class Main
     public void data2(){
     //super.namaee = Mengambil semua source code yang ada pada method namaee (method namaee berada pada class Biodata)
-    super.namee();
+    super.name();
         }
 
 
